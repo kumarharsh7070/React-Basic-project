@@ -1,0 +1,5 @@
+{
+  "name": "DevConnect - Mini LinkedIn",
+  "description": "A mini LinkedIn-like community platform for developers to connect and share text-based posts. Features user authentication, a public post feed, and user profiles.",
+  "requestFramePermissions": []
+}
